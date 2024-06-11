@@ -1,7 +1,7 @@
 # HorrorSpielLOL
 Ein unfertiges Horrorspiel. Gemacht mithilfe von Unity.
 
-Webseite:
+Website:
 https://nalsai.github.io/HorrorSpielLOL
 
 Releases: 
